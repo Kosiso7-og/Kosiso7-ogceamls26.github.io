@@ -1,18 +1,18 @@
 ---
 layout: home
 title: Home
-display_name: Clyde Tandjong                  # <- shown as the big display name on the hero
+display_name: Kosisochukwu Ogbuanya                  # <- shown as the big display name on the hero
 description: My CEAMLS SAIRI Summer Research Site
 
-motto: "Curious about how research can shape better tools for everyday life."
+motto: "Anything worth doing is worth doing well."
 
 quick_facts:
-  - "🎓 Junior, Computer Science"
-  - "🔬 Interested in Quantum Physics"
-  - "📍 Based in Baltimore, MD"
-  - "🚀 I like pineapples"
+  - "🎓 Senior, Computer Science"
+  - "🔬 Interested in Artificial Intelligence"
+  - "📍 Based in Nashville, TN"
+  - "🚀 I like Jollof Rice"
 
-linkedin: https://www.linkedin.com/in/example
+linkedin: https://www.linkedin.com/in/kosiso-ogbuanya/
 image: /assets/images/profile.svg
 
 # A "Currently" block — three short status lines for the home page.
