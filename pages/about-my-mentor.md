@@ -6,8 +6,8 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Farouk Ganiyu-Adewumi
   title: PhD Candidate, Computer Engineering
-  image: /assets/images/graduate-student-mentor.svg
-  website: https://example.com/alex-morgan
+  image: assets/images/graduate mentor picture.jpeg
+  website: https://www.linkedin.com/in/farouk-ganiyu-adewumi-0aaa3a211/
   bio: |
     Alex is a PhD candidate working on adaptive systems and embedded machine learning.
     They've been an incredible mentor — patient with my questions and great at helping
