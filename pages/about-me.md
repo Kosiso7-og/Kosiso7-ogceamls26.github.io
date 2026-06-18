@@ -32,8 +32,8 @@ about:
   gallery:
     - image: assets/images/Kosi_and_friends_.jpeg
       caption: A nice hike with my friends at Cummins Falls.
-    - image: /assets/images/gallery-2.svg
-      caption: One of my recent illustrations.
-    - image: /assets/images/gallery-3.svg
-      caption: Hanging out with friends after class.
+    - image: 
+      caption: Call me Chef K.
+    - image: assets/images/Kosi_fitness.jpeg
+      caption: Getting active at the gym.
 ---
