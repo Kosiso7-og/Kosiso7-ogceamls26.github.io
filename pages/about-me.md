@@ -32,7 +32,7 @@ about:
   gallery:
     - image: assets/images/Kosi_and_friends_.jpeg
       caption: A nice hike with my friends at Cummins Falls.
-    - image: 
+    - image: assets/images/Meatpie.jpeg
       caption: Call me Chef K.
     - image: assets/images/Kosi_fitness.jpeg
       caption: Getting active at the gym.
