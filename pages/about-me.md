@@ -30,8 +30,8 @@ about:
       description: I enjoy a good gym session or a nice hike.
 
   gallery:
-    - image: /assets/images/gallery-1.svg
-      caption: A great day on the trail.
+    - image: assets/images/Kosi_and_friends_.jpeg
+      caption: A nice hike with my friends at Cummins Falls.
     - image: /assets/images/gallery-2.svg
       caption: One of my recent illustrations.
     - image: /assets/images/gallery-3.svg
