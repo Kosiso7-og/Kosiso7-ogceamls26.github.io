@@ -7,7 +7,7 @@ about:
   name: Kosisochukwu Ogbuanya
   role: Senior, Computer Science
   image: /assets/images/profile.svg
-  linkedin: [https://www.linkedin.com/in/example](https://www.linkedin.com/in/kosiso-ogbuanya/)
+  linkedin: https://www.linkedin.com/in/kosiso-ogbuanya/
   bio: |
     Hi! I'm Kosiso, a Computer Science student in the CEAMLS SAIRI Summer Research program.
 
