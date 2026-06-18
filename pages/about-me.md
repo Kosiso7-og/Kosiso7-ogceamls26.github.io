@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Kosisochukwu Ogbuanya
   role: Senior, Computer Science
-  image: /assets/images/profile.svg
+  image: assets/images/Kosi_facecard.jpeg
   linkedin: https://www.linkedin.com/in/kosiso-ogbuanya/
   bio: |
     Hi! I'm Kosiso, a Computer Science student in the CEAMLS SAIRI Summer Research program.
@@ -19,15 +19,15 @@ about:
     side projects with friends.
 
   hobbies:
-    - icon: 🎨
-      title: Digital Art
-      description: I make small illustrations and pixel art in my spare time.
-    - icon: 🚲
-      title: Biking
-      description: Weekend trail rides are how I reset.
-    - icon: 📚
-      title: Reading
-      description: Sci-fi novels and design essays — both equally inspiring.
+    - icon: 👩🏻‍🤝‍👩🏽
+      title: Spending thime with friends
+      description: I enjoy being in the company of my friends and every activity I do with them feels extra fun than without them.
+    - icon: 👩‍🍳
+      title: Baking
+      description: I love trying out new recipes and sharing what I bake with friends.
+    - icon: 🏋️‍♀️
+      title: Fitness
+      description: I enjoy a good gym session or a nice hike.
 
   gallery:
     - image: /assets/images/gallery-1.svg
