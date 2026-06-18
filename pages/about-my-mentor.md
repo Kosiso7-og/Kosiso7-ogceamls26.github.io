@@ -19,7 +19,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Timothy Oladunni
   title: Associate Professor, School of Engineering
-  image: /assets/images/faculty-mentor.svg
+  image: assets/images/Screenshot_18-6-2026_194243_www.linkedin.com.jpeg
   website: https://example.com/pat-nguyen
   bio: |
     Dr. Nguyen leads a research group focused on human-centered computing and
