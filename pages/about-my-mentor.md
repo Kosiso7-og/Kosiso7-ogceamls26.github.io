@@ -19,10 +19,7 @@ faculty_mentor:
   image: assets/images/Screenshot_18-6-2026_194243_www.linkedin.com.jpeg
   website: https://www.linkedin.com/in/timothyoladunni/
   bio: |
-    Dr. Nguyen leads a research group focused on human-centered computing and
-    accessibility. Their guidance has helped me sharpen my research questions and
-    think more carefully about real-world impact.
+    Dr. Oladunni is a Computer Science Professor and biomedical AI researcher whose pioneering work spans multimodal ECG analytics, generative modeling, and computational epidemiology. He is a deeply insightful mentor who has provided me with the theoretical frameworks necessary to bridge the gap between complex physiological data and actionable clinical solutions. His constant encouragement to engage with foundational theories—such as Physiologic Invariance Theory—has fundamentally sharpened my research questions and helped me better understand how to build systems that are not only accurate but also robust and trustworthy in real-world settings.
 
-    Dr. Nguyen has mentored many SAIRI students and is a champion for broadening
-    participation in computing.
+    Beyond his technical expertise in developing architectures for precision cardiovascular care, Dr. Timothy is a dedicated advocate for student mentorship. He consistently fosters a collaborative environment, guiding us to translate academic research into deployable, human-centered technologies that aim to improve health outcomes in underserved communities. Outside of his busy research program and academic responsibilities, he is an avid fan of soccer, often finding time to catch matches between his project meetings.
 ---
