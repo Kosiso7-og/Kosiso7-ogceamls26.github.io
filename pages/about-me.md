@@ -11,12 +11,9 @@ about:
   bio: |
     Hi! I'm Kosiso, a Computer Science student in the CEAMLS SAIRI Summer Research program.
 
-    My research interests sit at the intersection of human-computer interaction and applied
-    machine learning. I'm especially curious about how everyday tools can be made more
-    accessible and adaptive through smart software.
+    My research interests sit at the intersection of human-computer interaction and applied machine learning, with a focus on how intelligent, adaptive software can make complex diagnostic tools more accessible. This summer, I am working on the development of deep learning models to predict cardiovascular disease from ECG signals. I’m specifically focused on the pipeline of signal preprocessing, pattern recognition using convolutional neural networks, and ensuring that the diagnostic results are interpretable and reliable for real-world clinical application.
 
-    Outside of class, you'll find me biking trails, learning languages, or working on small
-    side projects with friends.
+    Outside of the lab, you’ll likely find me hiking to a new view, hitting the gym, or baking something either sweet or savory. I’m also an avid photographer, a fan of Anime, and a firm believer in the power of a good afternoon nap. Above all, I love spending time with friends—whether we’re exploring new trails, gisting or collaborating on side projects.
 
   hobbies:
     - icon: 👩🏻‍🤝‍👩🏽
