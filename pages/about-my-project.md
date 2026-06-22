@@ -32,5 +32,5 @@ grad_mentor:
   linkedin: https://www.linkedin.com/in/farouk-ganiyu-adewumi-0aaa3a211/
 faculty_mentor:
   name: Dr. Timothy Oladunni
-  linkedin: https://www.linkedin.com/in/example
+  linkedin: https://www.linkedin.com/in/timothyoladunni/
 ---
